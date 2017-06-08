@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black_1">#333333</color>
+
+    <color name="black_2">#737373</color>
+    <color name="black_3">#a6a6a6</color>
+    <color name="line_color">#d9d9d9</color>
+
+    <color name="window_background_color">#f6f6f6</color>
+    <color name="green">#00ae7c</color>
+    <color name="green_1">#00ae7c</color>
+    <color name="green_2">#029c6f</color>
+    <color name="green_3">#d7ece7</color>
+    <color name="green_4">#73ce86</color>
+    <color name="green_5">#3bcfb2</color>
+    <color name="green_6">#72cd87</color>
+
+    <color name="orange_1">#ff713f</color>
+    <color name="orange_2">#fa9778</color>
+    <color name="orange_3">#f9845f</color>
+
+    <color name="yellow_1">#fdd400</color>
+    <color name="yellow_2">#fee662</color>
+    <color name="yellow_3">#fcc03e</color>
+
+    <color name="purple_1">#6b68ad</color>
+    <color name="purple_2">#9191c5</color>
+    <color name="purple_3">#9191c5</color>
+    <color name="purple_4">#6a67ae</color>
+    <color name="purple_5">#7875bc</color>
+
+
+    <color name="blue_1">#88c6eb</color>
+    <color name="blue_2">#89ced0</color>
+    <color name="blue_3">#88c6ae</color>
+    <color name="blue_4">#8ad0d0</color>
+    <color name="blue_5">#33aebd</color>
+    <color name="blue_6">#4680fe</color>
+
+    <color name="white">@android:color/white</color>
+
+    <color name="transparent">@android:color/transparent</color>
+</resources>
